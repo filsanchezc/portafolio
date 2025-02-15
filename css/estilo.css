@@ -179,6 +179,7 @@ a {
     position: relative;
     width: 32px;
     height: 32px;
+    right: 50px;
 }
 
 .nav__burger,
